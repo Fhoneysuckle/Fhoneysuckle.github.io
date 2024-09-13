@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year postgraduate student from [School of Mathematics and Statistics](https://stxy.btbu.edu.cn/index.htm), [Beijing Technology and Business University](https://www.btbu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a second year postgraduate student from [School of Mathematics and Statistics](https://stxy.btbu.edu.cn/index.htm), [Beijing Technology and Business University](https://www.btbu.edu.cn/). My research interest includes :
+
+- Causal inference: Proximal inference and Negative control; Confounding; Instrumental variable
+- Missing data analysis: Multivariate missing data; Nonignorable missing data
+- Semiparametric inference and doubly robust estimation
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
