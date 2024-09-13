@@ -15,7 +15,7 @@ I'm a second year postgraduate student from [School of Mathematics and Statistic
 
 I am very fortunate to be advised by [Prof. Zhi Geng](https://stxy.btbu.edu.cn/szdw/yytjxsz/jsyytjx/008558e34652429397cacfe1061299cc.htm) and [Lecturer Shanshan Luo](https://shanshanluo.cn/)  of [CENTER FOR STATISTICAL](https://stat-center.btbu.edu.cn/) from [School of Mathematics and Statistics](https://stat-center.btbu.edu.cn/index.htm), [Beijing Technology and Business University](https://www.btbu.edu.cn/).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jiaqi Min's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
