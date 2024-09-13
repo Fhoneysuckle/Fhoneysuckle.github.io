@@ -13,7 +13,7 @@ I'm a second year postgraduate student from [School of Mathematics and Statistic
 - Missing data analysis: Multivariate missing data; Nonignorable missing data
 - Semiparametric inference and doubly robust estimation
 
-I am very fortunate to be advised by [Prof. Zhi Geng](https://stxy.btbu.edu.cn/szdw/yytjxsz/jsyytjx/008558e34652429397cacfe1061299cc.htm) and [Lecturer Shanshan Luo](https://shanshanluo.cn/)  of CENTER FOR STATISTICAL from [School of Mathematics and Statistics](https://stat-center.btbu.edu.cn/index.htm), [Beijing Technology and Business University](https://www.btbu.edu.cn/).
+I am very fortunate to be advised by [Prof. Zhi Geng](https://stxy.btbu.edu.cn/szdw/yytjxsz/jsyytjx/008558e34652429397cacfe1061299cc.htm) and [Lecturer Shanshan Luo](https://shanshanluo.cn/)  of [CENTER FOR STATISTICAL](https://stat-center.btbu.edu.cn/) from [School of Mathematics and Statistics](https://stat-center.btbu.edu.cn/index.htm), [Beijing Technology and Business University](https://www.btbu.edu.cn/).
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
