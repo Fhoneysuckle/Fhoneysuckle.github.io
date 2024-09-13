@@ -17,7 +17,7 @@ I am very fortunate to be advised by [Prof. Zhi Geng](https://stxy.btbu.edu.cn/s
 
 You can find my CV here: [Jiaqi Min's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:jiaqimin@st.btbu.edu.cn) / [Github](https://github.com/Fhoneysuckle)
+[Email: jiaqimin@st.btbu.edu.cn](mailto:jiaqimin@st.btbu.edu.cn) / [Github: https://github.com/Fhoneysuckle](https://github.com/Fhoneysuckle)
 
 A data-driven personal website
 ======
